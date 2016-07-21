@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/gdx/Downloads/chapter14/DaylyRation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/gdx/Downloads/chapter14/DaylyRation/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_d647e523c8324c30b82e7109f00c163ad6503b11.jar" />
+    </item>
+    <item
+        jar="/home/gdx/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/gdx/Downloads/chapter14/DaylyRation/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_2509ce5a3bb778bf2c514e43b2e5da8cb1229688.jar" />
+    </item>
+    <item
+        jar="/home/gdx/Downloads/chapter14/DaylyRation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="edc2e80b758beaf786b201ad04322bd0a00e491a">
+        <dex dex="/home/gdx/Downloads/chapter14/DaylyRation/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_f51e077cdf1915e3d8a453c43873243b06aa2426.jar" />
+    </item>
+    <item
+        jar="/home/gdx/Downloads/chapter14/DaylyRation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/gdx/Downloads/chapter14/DaylyRation/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_ba652946f0d271fc20cf93c560c8ded0f73a9a05.jar" />
+    </item>
+    <item
+        jar="/home/gdx/Downloads/chapter14/DaylyRation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/gdx/Downloads/chapter14/DaylyRation/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_da2b8d73a41dc1f06019fcd29d789a4a521581bd.jar" />
+    </item>
+    <item
+        jar="/home/gdx/Downloads/chapter14/DaylyRation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/gdx/Downloads/chapter14/DaylyRation/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_f1a2ea93e7ca4ec17d200575ec1ed59a110985b2.jar" />
+    </item>
+    <item
+        jar="/home/gdx/Downloads/chapter14/DaylyRation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/gdx/Downloads/chapter14/DaylyRation/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_c3131ce2c8bc6fd046538d78a5a155015e587f95.jar" />
+    </item>
+    <item
+        jar="/home/gdx/Downloads/chapter14/DaylyRation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2fde95935581e64b045f9618c60e6afb753969d5">
+        <dex dex="/home/gdx/Downloads/chapter14/DaylyRation/app/build/intermediates/pre-dexed/debug/instant-run_05869a598158d5c13b7cf149b64c3f9d8d77fea0.jar" />
+    </item>
+
+</items>
