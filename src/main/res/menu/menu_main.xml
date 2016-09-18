@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item android:id="@+id/action_new_in"
+        android:title="NewIn"
+        android:icon="@drawable/ic_action_new"
+        android:orderInCategory="1"
+        android:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_today_ration"
+        android:title="Today"
+        android:icon="@drawable/ic_action_storage"
+        android:orderInCategory="2"
+        android:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_dev_inf"
+        android:title="DevInfo"
+        android:orderInCategory="3"
+        android:showAsAction="never" />
+</menu>
